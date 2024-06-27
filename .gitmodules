@@ -4,3 +4,6 @@
 [submodule "frontend"]
 	path = frontend
 	url = https://github.com/Dernorayytor/genmage-nextjs-frontend.git
+[submodule "nextjsfrontend"]
+	path = nextjsfrontend
+	url = https://github.com/Dernorayytor/genmage-nextjs-frontend.git
